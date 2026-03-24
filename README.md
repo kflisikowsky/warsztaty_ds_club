@@ -1,2 +1,3 @@
-# warsztaty_ds_club
-Warsztaty koła Data Science Club - materiały
+# Warsztaty Data Science Club
+
+Warsztaty koła Data Science Club - materiały do pobrania (2026)
